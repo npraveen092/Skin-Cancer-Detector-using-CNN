@@ -1,0 +1,7 @@
+Flask>=1.1.2
+keras==2.5.0
+tensorflow==2.5.0
+matplotlib==3.3.4
+numpy==1.20.0
+pandas==1.2.4
+sklearn==0.24.1
